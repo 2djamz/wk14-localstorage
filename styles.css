@@ -1,0 +1,34 @@
+
+h1{
+    font-size: 22px;
+    font-family:'Courier New', Courier, monospace;
+}
+td,th {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 4px;
+    background-color: lightblue;
+}
+label {
+    vertical-align:top;
+}
+input, select, textarea {
+    width:auto;
+    margin-left: 8px;
+    border: 1px solid black;
+    padding:5px;
+}
+#shopping {
+    border:1px dotted rgb(0, 0, 0);
+    padding:6px;
+    background-color: lightblue;
+}
+#items-table {
+    border: 1px dotted rgb(0, 0, 0);
+    padding: 6px;
+    margin-top:12px;
+}
+#items-table h1 {
+    font-size: 18px;
+    margin-top: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
